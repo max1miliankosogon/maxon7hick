@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxon7hick
+- 👋 Hi, I’m @maximkosogon
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on GitHub
